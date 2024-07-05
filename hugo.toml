@@ -1,0 +1,4 @@
+baseURL = 'https://blade2005.github.io'
+languageCode = 'en-us'
+title = 'Craig Davis'
+theme = 'ananke'
